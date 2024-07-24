@@ -1,0 +1,50 @@
+# Custom Ignores
+testing/tests
+.vscode/
+main
+storage/daily_transactions/*
+!storage/daily_transactions/day*/
+!storage/daily_transactions/create_test_dtf.py
+src/backend/storage/*
+**/log.txt
+**/new_user_accounts.txt
+**/new_available_games.txt
+**/new_game_collection.txt
+test*.txt
+daily_diff_log.txt
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.ilk
+*.obj
+*.pdb
+*.pyc
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app

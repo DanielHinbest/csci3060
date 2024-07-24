@@ -1,0 +1,4 @@
+Please enter your username:
+Welcome, admin1.
+Enter username:
+Error: User already exists.

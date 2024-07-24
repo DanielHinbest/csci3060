@@ -1,0 +1,5 @@
+Please enter your username:
+Welcome, admin1.
+Enter username:
+Enter user type (AA, AM, FS, BS, SS):
+Error: The user type must be AA, AM, FS, BS, or SS.

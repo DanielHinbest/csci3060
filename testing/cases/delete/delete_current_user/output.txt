@@ -1,0 +1,1 @@
+Invalid Operation: Current user cannot be deleted

@@ -1,0 +1,3 @@
+Please enter your username:
+Welcome, sellstandard.
+Error: Unauthorized. Only admin users can create accounts.
